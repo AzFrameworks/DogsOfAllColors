@@ -106,9 +106,7 @@ The key business principle is least privilege: an agent receives only the data, 
 ## Secure Every Identity, Insight, Tool, and Action
 
 Agent 365 connects agent-specific signals and controls across Microsoft Entra, Purview, Defender, Intune, and the Microsoft **365** admin center. Together they address access, data protection, compliance, threat detection, endpoint activity, and runtime behavior. Agent **365** coordinates these disciplines rather than replacing them.
-
 ![Agent365](pics/Agent365.png)
-
 Agent risk spans traditional boundaries. One incident may combine excessive permissions, sensitive context, an unsafe tool call, and unusual endpoint activity. Seeing these dimensions together helps teams investigate and respond with confidence.
 
 ## What Agent 365 Cannot Do for You
