@@ -1,8 +1,8 @@
 # The Agentic Workplace Is Here
 
-For years, workplace AI mainly drafted, summarized, or analyzed. Agents change that: they can pursue goals, use tools, follow multi-step plans, retain context, and act across business systems. As access becomes cheaper and easier, agents will arrive through productivity software, business applications, employee experiments, departmental automation, and business-built solutions – not one managed program. GPT-3.5-level inference costs fell more than 280-fold from November 2022 to October 2024, while active agents in Microsoft **365** grew 15-fold year over year and 18-fold in large enterprises. Accessibility and adoption are accelerating together.
+For years, workplace AI mainly drafted, summarized, or analyzed. Agents change that: they can pursue goals, use tools, follow multi-step plans, retain context, and act across business systems. As access becomes cheaper and easier, agents will arrive through productivity software, business applications, employee experiments, departmental automation, and business-built solutions – not one managed program. GPT-3.5-level inference costs fell more than 280-fold from November 2022 to October 2024, while active agents in Microsoft 365 grew 15-fold year over year and 18-fold in large enterprises. Accessibility and adoption are accelerating together.
 
-The leadership question is no longer *Should we allow agents?* but "How do we capture their value while staying visible, accountable, and human-led?" Microsoft's **2025** Work Trend Index found that 81% of leaders expected agents to be integrated moderately or extensively into their AI strategy within 12–18 months. The direction is clear; readiness is not.
+The leadership question is no longer *Should we allow agents?* but "How do we capture their value while staying visible, accountable, and human-led?" Microsoft's 2025 Work Trend Index found that 81% of leaders expected agents to be integrated moderately or extensively into their AI strategy within 12–18 months. The direction is clear; readiness is not.
 
 ## Meet Your New Digital Colleague
 
