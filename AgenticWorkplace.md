@@ -1,6 +1,6 @@
 # The Agentic Workplace Is Here
 
-For years, workplace AI mainly drafted, summarized, or analyzed. Agents change that: they can pursue goals, use tools, follow multi-step plans, retain context, and act across business systems. As access becomes cheaper and easier, agents will arrive through productivity software, business applications, employee experiments, departmental automation, and business-built solutions – not one managed program. **GPT**-3.5-level inference costs fell more than **280**-fold from November **2022** to October **2024**, while active agents in Microsoft **365** grew 15-fold year over year and 18-fold in large enterprises. Accessibility and adoption are accelerating together.
+For years, workplace AI mainly drafted, summarized, or analyzed. Agents change that: they can pursue goals, use tools, follow multi-step plans, retain context, and act across business systems. As access becomes cheaper and easier, agents will arrive through productivity software, business applications, employee experiments, departmental automation, and business-built solutions – not one managed program. GPT-3.5-level inference costs fell more than 280-fold from November 2022 to October 2024, while active agents in Microsoft **365** grew 15-fold year over year and 18-fold in large enterprises. Accessibility and adoption are accelerating together.
 
 The leadership question is no longer *Should we allow agents?* but "How do we capture their value while staying visible, accountable, and human-led?" Microsoft's **2025** Work Trend Index found that 81% of leaders expected agents to be integrated moderately or extensively into their AI strategy within 12–18 months. The direction is clear; readiness is not.
 
@@ -20,11 +20,11 @@ That is the emerging agentic workplace: a business environment in which people i
 
 ## More Human Impact, Multiplied by Digital Capacity
 
-The best executive lens is not *human versus agent,* but human judgment multiplied by digital execution. Microsoft describes an AI-operated, human-led model in which employees set direction, define quality, resolve exceptions, and remain accountable. In its **2026** research, 86% of AI users treated AI output as a starting point, not a final answer.
+The best executive lens is not *human versus agent,* but human judgment multiplied by digital execution. Microsoft describes an AI-operated, human-led model in which employees set direction, define quality, resolve exceptions, and remain accountable. In its 2026 research, 86% of AI users treated AI output as a starting point, not a final answer.
 
 ## Six Moments That Bring the Agentic Workplace to Life
 
-Sales. A seller asks an agent to prepare for a customer conversation. It reviews permitted **CRM** data, recent correspondence, and open actions, then creates a concise briefing. Afterward, it drafts follow-ups – but the seller decides what is accurate, appropriate, and worth sending.
+Sales. A seller asks an agent to prepare for a customer conversation. It reviews permitted CRM data, recent correspondence, and open actions, then creates a concise briefing. Afterward, it drafts follow-ups – but the seller decides what is accurate, appropriate, and worth sending.
 
 Customer service. An agent categorizes requests, suggests knowledge articles, and drafts responses. Routine cases move faster; unusual or sensitive ones go to a person. Customers receive more consistent attention while employees focus on situations requiring empathy and judgment.
 
