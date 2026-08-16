@@ -8,6 +8,8 @@ The leadership question is no longer *Should we allow agents?* but "How do we ca
 
 Imagine a sales manager arriving Monday morning. Overnight, an agent reviewed account activity, identified stalled opportunities, drafted follow-ups, and flagged three customers needing attention. In finance, another compared invoices with purchase orders. In HR, an onboarding agent prepared a new employee's schedule. These agents need no robot form or office seat; they participate in the flow of work as software.
 
+![AgenticWorkplace](pics/AgenticWorkplace.png)
+
 That distinction matters. Traditional software waits for users to follow predefined steps. An agent can interpret an objective, choose tools, and decide what comes next. Microsoft describes agents as systems that reason, plan, and act; its Cloud Adoption Framework adds that they may access data, make decisions, take actions, and affect multiple systems under delegated authority.
 
 ## Govern and secure AI agents across your organization
