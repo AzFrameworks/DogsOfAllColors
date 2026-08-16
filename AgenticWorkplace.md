@@ -81,15 +81,15 @@ Microsoft's experience reinforces this model: registry, identity, security, comp
 
 ## Agent 365: A Control Plane for the Agentic Workplace
 
-Agent 365 is neither a business agent nor the tool used to design every agent. It is Microsoft's control plane for observing, governing, and securing agents across the organization. It became generally available to commercial customers on May 1, **2026**.
+Agent 365 is neither a business agent nor the tool used to design every agent. It is Microsoft's control plane for observing, governing, and securing agents across the organization. It became generally available to commercial customers on May 1, 2026.
 
 [Microsoft Agent 365 overview](https://learn.microsoft.com/en-us/microsoft-agent-365/overview)
 
-A simple analogy is air traffic control. The control tower does not fly the aircraft or determine the purpose of each journey. It establishes visibility, identity, routes, operating rules, and intervention capability so many aircraft can move safely at the same time. Agent **365** plays a comparable role for agents.
+A simple analogy is air traffic control. The control tower does not fly the aircraft or determine the purpose of each journey. It establishes visibility, identity, routes, operating rules, and intervention capability so many aircraft can move safely at the same time. Agent 365 plays a comparable role for agents.
 
 ### Bring Every Agent Into View
 
-Agent **365** provides a centralized registry and visibility into adoption, activity, health, ownership, and risk. Leaders can ask: Which agents exist? Where are they used? Which are growing, ownerless, or need attention?
+Agent 365 provides a centralized registry and visibility into adoption, activity, health, ownership, and risk. Leaders can ask: Which agents exist? Where are they used? Which are growing, ownerless, or need attention?
 
 [Govern agents while supporting innovation](https://learn.microsoft.com/en-us/microsoft-agent-365/leadership/govern-agents-support-innovation)
 
@@ -97,15 +97,17 @@ Visibility also enables value management. Organizations can separate heavily use
 
 ### Turn Bold Experiments Into Trusted Operations
 
-Governance gives agents explicit ownership, access boundaries, lifecycle controls, and policy-based onboarding. Microsoft Entra-backed identity treats each agent as a managed entity rather than an anonymous script. Agent **365** supports approval, deployment, blocking, ownership reassignment, policy application, and retirement through familiar administration.
+Governance gives agents explicit ownership, access boundaries, lifecycle controls, and policy-based onboarding. Microsoft Entra-backed identity treats each agent as a managed entity rather than an anonymous script. Agent 365 supports approval, deployment, blocking, ownership reassignment, policy application, and retirement through familiar administration.
 
-The key business principle is least privilege: an agent receives only the data, tools, and actions needed for its role. A sales-preparation agent may read account data but not alter pricing; an invoice agent may prepare an exception but not release payment. Agent **365** extends familiar identity and access concepts to this new digital participant.
+The key business principle is least privilege: an agent receives only the data, tools, and actions needed for its role. A sales-preparation agent may read account data but not alter pricing; an invoice agent may prepare an exception but not release payment. Agent 365 extends familiar identity and access concepts to this new digital participant.
 
 [Govern and secure AI agents across your organization](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/governance-security-across-organization)
 
 ## Secure Every Identity, Insight, Tool, and Action
 
-Agent **365** connects agent-specific signals and controls across Microsoft Entra, Purview, Defender, Intune, and the Microsoft **365** admin center. Together they address access, data protection, compliance, threat detection, endpoint activity, and runtime behavior. Agent **365** coordinates these disciplines rather than replacing them.
+Agent 365 connects agent-specific signals and controls across Microsoft Entra, Purview, Defender, Intune, and the Microsoft **365** admin center. Together they address access, data protection, compliance, threat detection, endpoint activity, and runtime behavior. Agent **365** coordinates these disciplines rather than replacing them.
+
+![Agent365](pics/Agent365.png)
 
 Agent risk spans traditional boundaries. One incident may combine excessive permissions, sensitive context, an unsafe tool call, and unusual endpoint activity. Seeing these dimensions together helps teams investigate and respond with confidence.
 
@@ -113,7 +115,7 @@ Agent risk spans traditional boundaries. One incident may combine excessive perm
 
 Agent **365** cannot create a responsible operating model alone. Leaders must still decide what to automate, which actions need human approval, what evidence to retain, how to measure performance, and who remains accountable. Microsoft supplements Agent **365** with organizational risk assessment, publishing, approval, and collaboration processes.
 
-Visibility is not governance by itself. An unknown agent may appear as a signal or registry entry, but deeper control depends on identity, onboarding, platform integration, and agent capabilities. Agent **365** reduces the blind spot; organizations then approve, constrain, integrate, or block what they discover.
+Visibility is not governance by itself. An unknown agent may appear as a signal or registry entry, but deeper control depends on identity, onboarding, platform integration, and agent capabilities. Agent 365 reduces the blind spot; organizations then approve, constrain, integrate, or block what they discover.
 
 ## One Agentic Challenge, Every Scale
 
