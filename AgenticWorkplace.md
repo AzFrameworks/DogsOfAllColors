@@ -10,7 +10,7 @@ Imagine a sales manager arriving Monday morning. Overnight, an agent reviewed ac
 
 That distinction matters. Traditional software waits for users to follow predefined steps. An agent can interpret an objective, choose tools, and decide what comes next. Microsoft describes agents as systems that reason, plan, and act; its Cloud Adoption Framework adds that they may access data, make decisions, take actions, and affect multiple systems under delegated authority.
 
-Govern and secure AI agents across your organization
+## Govern and secure AI agents across your organization
 
 Employees have good reasons to adopt them. Agents work around the clock, process information quickly, and reduce coordination between applications. For smaller organizations, this expands lean-team capacity; for enterprises, it improves consistency across distributed operations.
 
@@ -18,11 +18,11 @@ Most employees will not build sophisticated autonomous systems. Adoption often b
 
 That is the emerging agentic workplace: a business environment in which people increasingly direct, supervise, and collaborate with software agents as part of everyday work.
 
-More Human Impact, Multiplied by Digital Capacity
+## More Human Impact, Multiplied by Digital Capacity
 
 The best executive lens is not *human versus agent,* but human judgment multiplied by digital execution. Microsoft describes an AI-operated, human-led model in which employees set direction, define quality, resolve exceptions, and remain accountable. In its **2026** research, 86% of AI users treated AI output as a starting point, not a final answer.
 
-Six Moments That Bring the Agentic Workplace to Life
+## Six Moments That Bring the Agentic Workplace to Life
 
 Sales. A seller asks an agent to prepare for a customer conversation. It reviews permitted **CRM** data, recent correspondence, and open actions, then creates a concise briefing. Afterward, it drafts follow-ups – but the seller decides what is accurate, appropriate, and worth sending.
 
@@ -38,13 +38,13 @@ Leadership. An executive agent assembles agreed metrics, summarizes decisions, a
 
 These scenarios illustrate potential, not guaranteed success. Value depends on reliable data, appropriate permissions, thoughtful workflows, human review, and measurement. Microsoft's research also finds that culture, manager support, governance, and talent practices drive more than twice the reported AI impact of individual mindset and behavior.
 
-When Helpful Agents Slip Into the Shadows
+## When Helpful Agents Slip Into the Shadows
 
 The risk is not that agents are inherently unsafe. The risk is that they can become operationally important before they become organizationally visible.
 
 Consider a purchasing agent that reads supplier email, checks stock, creates a proposed order, and routes it for approval. With precise access and logged actions, it is highly useful. With broad permissions, untrusted instructions, or unchecked ordering authority, the same convenience becomes exposure.
 
-**OWASP** highlights agent risks such as prompt injection, tool abuse, privilege escalation, data exfiltration, memory poisoning, excessive autonomy, approval manipulation, and cascading failures. Its guidance emphasizes least privilege, explicit approval for high-impact actions, monitoring, memory isolation, and audit trails.
+OWASP highlights agent risks such as prompt injection, tool abuse, privilege escalation, data exfiltration, memory poisoning, excessive autonomy, approval manipulation, and cascading failures. Its guidance emphasizes least privilege, explicit approval for high-impact actions, monitoring, memory isolation, and audit trails.
 
 The business implications extend beyond cybersecurity:
 
@@ -56,13 +56,11 @@ The business implications extend beyond cybersecurity:
 - Organization: Teams may automate locally without shared standards, creating inconsistent outcomes and hidden dependencies.
 **NIST**'s AI Risk Management Framework recommends building trustworthiness into AI design, development, use, and evaluation. Microsoft similarly recommends an enforceable baseline covering identity, ownership, lifecycle, observability, data governance, security, and development standards.
 
-Govern and secure AI agents across your organization
-
 The goal is therefore not to eliminate experimentation. It is to ensure that experimentation does not quietly become production without the responsibilities that production requires.
 
-Welcome to the Digital Workforce
+## Welcome to the Digital Workforce
 
-The *digital workforce* analogy is useful – but only if it is applied carefully.
+The digital workforce analogy is useful – but only if it is applied carefully.
 
 A human employee has an identity, role, accountable manager, permitted systems, training, performance expectations, and a lifecycle. A business-critical agent needs similar controls: unique identity, defined purpose, an owner, limited access, observable activity, periodic review, and a reliable way to suspend or retire it.
 
@@ -79,11 +77,11 @@ An agentic environment is therefore more than a collection of AI tools. It is an
 - lifecycle processes that activate, change, suspend, and retire agents.
 Microsoft's experience reinforces this model: registry, identity, security, compliance, and platform teams remain distinct, while Agent **365** provides shared metadata and coordination. Managing agents extends established disciplines such as identity, access control, lifecycle, inventory, and security rather than replacing them.
 
-Agent **365**: The Control Plane for the Agentic Workplace
+Agent 365: The Control Plane for the Agentic Workplace
 
-Agent **365** is neither a business agent nor the tool used to design every agent. It is Microsoft's control plane for observing, governing, and securing agents across the organization. It became generally available to commercial customers on May 1, **2026**.
+Agent 365 is neither a business agent nor the tool used to design every agent. It is Microsoft's control plane for observing, governing, and securing agents across the organization. It became generally available to commercial customers on May 1, **2026**.
 
-Microsoft Agent **365** overview
+[Microsoft Agent 365 overview](https://learn.microsoft.com/en-us/microsoft-agent-365/overview)
 
 A simple analogy is air traffic control. The control tower does not fly the aircraft or determine the purpose of each journey. It establishes visibility, identity, routes, operating rules, and intervention capability so many aircraft can move safely at the same time. Agent **365** plays a comparable role for agents.
 
@@ -91,9 +89,7 @@ A simple analogy is air traffic control. The control tower does not fly the airc
 
 Agent **365** provides a centralized registry and visibility into adoption, activity, health, ownership, and risk. Leaders can ask: Which agents exist? Where are they used? Which are growing, ownerless, or need attention?
 
-Govern agents while supporting innovation
-
-Microsoft Agent **365** overview
+[Govern agents while supporting innovation](https://learn.microsoft.com/en-us/microsoft-agent-365/leadership/govern-agents-support-innovation)
 
 Visibility also enables value management. Organizations can separate heavily used, business-critical agents from forgotten experiments. Microsoft's implementation surfaces inventory, metadata, usage, ownership, lifecycle, and risk across a large internal population, while recognizing that automation becomes essential at scale.
 
@@ -101,39 +97,35 @@ Visibility also enables value management. Organizations can separate heavily use
 
 Governance gives agents explicit ownership, access boundaries, lifecycle controls, and policy-based onboarding. Microsoft Entra-backed identity treats each agent as a managed entity rather than an anonymous script. Agent **365** supports approval, deployment, blocking, ownership reassignment, policy application, and retirement through familiar administration.
 
-Govern agents while supporting innovation
-
 The key business principle is least privilege: an agent receives only the data, tools, and actions needed for its role. A sales-preparation agent may read account data but not alter pricing; an invoice agent may prepare an exception but not release payment. Agent **365** extends familiar identity and access concepts to this new digital participant.
 
-Govern and secure AI agents across your organization
+[Govern and secure AI agents across your organization](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/governance-security-across-organization)
 
-Secure Every Identity, Insight, Tool, and Action
+## Secure Every Identity, Insight, Tool, and Action
 
 Agent **365** connects agent-specific signals and controls across Microsoft Entra, Purview, Defender, Intune, and the Microsoft **365** admin center. Together they address access, data protection, compliance, threat detection, endpoint activity, and runtime behavior. Agent **365** coordinates these disciplines rather than replacing them.
 
 Agent risk spans traditional boundaries. One incident may combine excessive permissions, sensitive context, an unsafe tool call, and unusual endpoint activity. Seeing these dimensions together helps teams investigate and respond with confidence.
 
-What Agent **365** Cannot Do for You
+## What Agent 365 Cannot Do for You
 
 Agent **365** cannot create a responsible operating model alone. Leaders must still decide what to automate, which actions need human approval, what evidence to retain, how to measure performance, and who remains accountable. Microsoft supplements Agent **365** with organizational risk assessment, publishing, approval, and collaboration processes.
 
 Visibility is not governance by itself. An unknown agent may appear as a signal or registry entry, but deeper control depends on identity, onboarding, platform integration, and agent capabilities. Agent **365** reduces the blind spot; organizations then approve, constrain, integrate, or block what they discover.
 
-One Agentic Challenge, Every Scale
+## One Agentic Challenge, Every Scale
 
-For an **SMB**, the agentic workplace may mean a few high-value agents supporting a lean team: more capacity without a large administrative function. Governance should stay lightweight – one accountable leader, a visible register, a few approved use cases, clear data boundaries, and human approval for financial, customer-facing, employment, or irreversible actions. Microsoft recommends starting with a visible time cost, a secure foundation, and one practical process.
-
-Govern agents while supporting innovation
+For an SMB, the agentic workplace may mean a few high-value agents supporting a lean team: more capacity without a large administrative function. Governance should stay lightweight – one accountable leader, a visible register, a few approved use cases, clear data boundaries, and human approval for financial, customer-facing, employment, or irreversible actions. Microsoft recommends starting with a visible time cost, a secure foundation, and one practical process.
 
 Enterprises face the same questions at greater scale: distributed creation, multiple business units, regulated data, varied platforms, complex approvals, and thousands of connections. They need formal ownership, automated lifecycle policies, security-operations integration, risk-tiered publishing, and cross-functional governance. Microsoft found the hardest challenge was enabling IT, security, identity, platform, and business teams to decide from a shared picture.
 
 The principle is the same at both scales: governance should be proportional to business impact, not bureaucracy.
 
-A Confident Path From First Agent to Full Scale
+## A Confident Path From First Agent to Full Scale
 
 Leaders need not perfect every policy before starting. Microsoft recommends beginning with registry, ownership, and observability, then adding deeper controls as usage and risk become clearer. Start with lower-risk scenarios, build governance alongside adoption, and scale deliberately.
 
-Govern agents while supporting innovation
+## Govern agents while supporting innovation
 
 Begin with one or two processes where value is visible and downside manageable. Define success before deployment: faster responses, fewer errors, reduced backlog, better consistency, or more time for customers and employees. Document who owns the outcome, what the agent may read or change, and when a person must intervene.
 
