@@ -77,7 +77,7 @@ An agentic environment is therefore more than a collection of AI tools. It is an
 - lifecycle processes that activate, change, suspend, and retire agents.
 Microsoft's experience reinforces this model: registry, identity, security, compliance, and platform teams remain distinct, while Agent **365** provides shared metadata and coordination. Managing agents extends established disciplines such as identity, access control, lifecycle, inventory, and security rather than replacing them.
 
-Agent 365: The Control Plane for the Agentic Workplace
+## Agent 365: A Control Plane for the Agentic Workplace
 
 Agent 365 is neither a business agent nor the tool used to design every agent. It is Microsoft's control plane for observing, governing, and securing agents across the organization. It became generally available to commercial customers on May 1, **2026**.
 
