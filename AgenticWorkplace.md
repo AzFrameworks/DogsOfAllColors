@@ -105,13 +105,13 @@ The key business principle is least privilege: an agent receives only the data, 
 
 ## Secure Every Identity, Insight, Tool, and Action
 
-Agent 365 connects agent-specific signals and controls across Microsoft Entra, Purview, Defender, Intune, and the Microsoft **365** admin center. Together they address access, data protection, compliance, threat detection, endpoint activity, and runtime behavior. Agent **365** coordinates these disciplines rather than replacing them.
+Agent 365 connects agent-specific signals and controls across Microsoft Entra, Purview, Defender, Intune, and the Microsoft 365 admin center. Together they address access, data protection, compliance, threat detection, endpoint activity, and runtime behavior. Agent **365** coordinates these disciplines rather than replacing them.
 ![Agent365](pics/Agent365.png)
 Agent risk spans traditional boundaries. One incident may combine excessive permissions, sensitive context, an unsafe tool call, and unusual endpoint activity. Seeing these dimensions together helps teams investigate and respond with confidence.
 
 ## What Agent 365 Cannot Do for You
 
-Agent **365** cannot create a responsible operating model alone. Leaders must still decide what to automate, which actions need human approval, what evidence to retain, how to measure performance, and who remains accountable. Microsoft supplements Agent **365** with organizational risk assessment, publishing, approval, and collaboration processes.
+Agent 365 cannot create a responsible operating model alone. Leaders must still decide what to automate, which actions need human approval, what evidence to retain, how to measure performance, and who remains accountable. Microsoft supplements Agent 365 with organizational risk assessment, publishing, approval, and collaboration processes.
 
 Visibility is not governance by itself. An unknown agent may appear as a signal or registry entry, but deeper control depends on identity, onboarding, platform integration, and agent capabilities. Agent 365 reduces the blind spot; organizations then approve, constrain, integrate, or block what they discover.
 
